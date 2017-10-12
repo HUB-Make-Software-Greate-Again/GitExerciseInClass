@@ -1,7 +1,10 @@
 
 The Matrix
 The Big Lebowski
+<<<<<<< HEAD
 Edit In Beast Mode
+Handsome And The Beast
+>>>>>>> 0424b56d9246cf01dc1535a005a82067ef77c59d
 Star Wars
 It
 the Prestige
@@ -9,4 +12,3 @@ Spiderman
 Just Like Heaven
 Pirates
 Wonderwoman
-
